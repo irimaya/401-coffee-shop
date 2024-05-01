@@ -3,10 +3,6 @@
 	font-size: 5rem;
 }
 
-.bk-secondary {
-	background: #fdf5ef;
-}
-
 .flex {
 	flex-direction: column;
 }
@@ -39,26 +35,26 @@
 	text-align: center;
 }
 
-/* Navbar */
+/* Showcase */
 .flex-social {
 	justify-content: center;
 	padding-top: 50px;
 }
 
-/* Shop */
+/* Shop  */
 #shop {
 	text-align: center;
 }
 
+/* About */
 #about {
 	text-align: center;
+}
+#about .flex-box {
 	padding-bottom: 40px;
 }
 
-#about .flex-box {
-	padding-top: 20px;
-}
-
+/* Join */
 #join .form-control,
 #join button {
 	width: 100%;
